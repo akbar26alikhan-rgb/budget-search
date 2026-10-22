@@ -1,0 +1,6 @@
+{
+  "name": "BudgetBites",
+  "description": "Smart Food Finder & Group Meal Budget Optimizer for Vasai, Maharashtra",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
